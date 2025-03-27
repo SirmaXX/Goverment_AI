@@ -1,5 +1,5 @@
 # Goverment AI (Demo) TR
-Alternatif karar verici
+Alternatif karar verici ,eğlence için oluşturuldu.
 
 
 
@@ -34,7 +34,7 @@ Alternatif karar verici
 
 
 # Goverment AI (Demo) Eng
-Alternative decision maker
+Alternative decision maker,ıts build for fun.
 
 
 
@@ -86,3 +86,10 @@ Alternative decision maker
 1. https://en.wikipedia.org/wiki/Virtual_politician
 2. https://parkerpolitics.com/
 3. https://en.wikipedia.org/wiki/Artificial_intelligence_and_elections
+
+
+# Demo çıktıları / Demo outputs
+Gördüğünüz üzere sadece birkaç haber verisi ile politikacılardan daha iyi iş çıkardım.
+![1](images/1.jpeg)
+![2](images/2.jpeg)
+![3](images/3.jpeg)
