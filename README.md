@@ -93,3 +93,6 @@ Gördüğünüz üzere sadece birkaç haber verisi ile politikacılardan daha iy
 ![1](images/1.jpeg)
 ![2](images/2.jpeg)
 ![3](images/3.jpeg)
+
+## Hakarette edelim ve eleştirelim.
+![4](images/4.jpeg)
